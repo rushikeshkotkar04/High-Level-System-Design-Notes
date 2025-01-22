@@ -1,0 +1,30 @@
+Power of 10      | Byte Unit       | Description
+------------------------------------------------------
+10^0             | Byte            | Single byte
+10^3             | Kilobyte (KB)   | Roughly 1 thousand bytes
+10^6             | Megabyte (MB)   | Roughly 1 million bytes
+10^9             | Gigabyte (GB)   | Roughly 1 billion bytes
+10^12            | Terabyte (TB)   | Roughly 1 trillion bytes
+10^15            | Petabyte (PB)   | Roughly 1 quadrillion bytes
+10^18            | Exabyte (EB)    | Roughly 1 quintillion bytes
+10^21            | Zettabyte (ZB)  | Roughly 1 sextillion bytes
+10^24            | Yottabyte (YB)  | Roughly 1 septillion bytes
+-------------------------------------------------------------------------------------------------
+
+6 zeros -> A Million
+9 zeros -> A Billion
+12 zeros -> A Trillion
+-------------------------------------------------------------------------------------------------
+                            Rough data size
+            
+Type            | Description/Content                                     | Estimated Size
+-------------------------------------------------------------------------------------------------
+Image           | JPEG image (500x500, decent compression)                | ~50 KB
+Text File       | A string of 50 characters                               | 50 bytes (0.0488 KB)
+Video           | 1-minute MP4 video (1080p, 5 Mbps bitrate)              | ~37.5 MB
+String          | A string of 50 characters                               | 50 bytes (0.0488 KB)
+-------------------------------------------------------------------------------------------------
+
+
+
+
