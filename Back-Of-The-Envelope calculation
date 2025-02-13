@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------------------------
 
 Assumptions :
-  For bandwidth : 10^5 per sec should assume
+  -For bandwidth : 10^5 per sec should assume
 
 
-  A server handles 100 requests per second (RPS)
+  
   We have to calculate:
     1.Storage
     2.Number of Servers
@@ -18,6 +18,13 @@ Assumptions :
     10.Traffic Spikes and Load Balancing
     11.Data Growth Rate
     12.Cost Estimations
+
+
+Number of Servers= Requests per Server / Total Requests per Second (RPS) 
+
+Total Requests per Second (RPS) --> A server handles 100 requests per second (RPS)
+​
+
 
 
 
