@@ -3,9 +3,18 @@
 Assumptions :
   A server handles 100 requests per second (RPS)
   We have to calculate:
-    1.storage
-    2.no of server
+    1.Storage
+    2.Number of Servers
     3.Bandwidth
+    4.CPU and Memory Requirements
+    5.Database Throughput (Reads/Writes)
+    6.Disk I/O and Latency
+    7.Network Throughput
+    8.Scaling and Redundancy Requirements
+    9.Backup and Recovery
+    10.Traffic Spikes and Load Balancing
+    11.Data Growth Rate
+    12.Cost Estimations
 
 
 
