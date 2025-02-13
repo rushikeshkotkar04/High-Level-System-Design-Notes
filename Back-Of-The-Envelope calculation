@@ -1,6 +1,9 @@
 -------------------------------------------------------------------------------------------------
 
 Assumptions :
+  For bandwidth : 10^5 per sec should assume
+
+
   A server handles 100 requests per second (RPS)
   We have to calculate:
     1.Storage
