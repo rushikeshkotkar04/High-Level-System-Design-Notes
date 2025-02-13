@@ -1,3 +1,17 @@
+-------------------------------------------------------------------------------------------------
+
+Assumptions :
+  A server handles 100 requests per second (RPS)
+  We have to calculate:
+    1.storage
+    2.no of server
+    3.Bandwidth
+
+
+
+
+
+-------------------------------------------------------------------------------------------------
 Power of 10      | Byte Unit       | Description
 ------------------------------------------------------
 10^0             | Byte            | Single byte
@@ -14,6 +28,7 @@ Power of 10      | Byte Unit       | Description
 6 zeros -> A Million
 9 zeros -> A Billion
 12 zeros -> A Trillion
+
 -------------------------------------------------------------------------------------------------
                             Rough data size
             
